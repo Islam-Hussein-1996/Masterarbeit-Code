@@ -1,0 +1,3 @@
+D:/Masterarbeit/CODE REPO/code/build/pioasm/CMakeFiles/pioasm.dir
+D:/Masterarbeit/CODE REPO/code/build/pioasm/CMakeFiles/edit_cache.dir
+D:/Masterarbeit/CODE REPO/code/build/pioasm/CMakeFiles/rebuild_cache.dir
